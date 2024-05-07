@@ -31,9 +31,14 @@ categories.get('/', (req, res) => {
 
 // Get products by category
 category.get('/:type', (req, res) => {
+    console.log(decodeURI(req.params.type))
     res.header("Access-Control-Allow-Origin", "*");
-    const category_prod = products_data.filter(c => c.category === req.params.type);
-    if (category_prod.length === 0) return res.status(404).send('No products found for the given category.');
+    const category_prod = products_data.filter(c => {
+        console.log(c.category.toLowerCase())
+        return c.category.toLowerCase() === decodeURI(req.params.type)
+    }
+    );
+    // if (category_prod.length === 0) return res.status(404).send('No products found for the given category.');
     res.send(category_prod);
 });
 
