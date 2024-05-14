@@ -134,6 +134,185 @@ var product_data = [
 
 
 
+    {
+        "id": 12,
+        "title": "Light Blue",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Shirts",
+        "image": "https://cdn.propercloth.com/fab_gallery/6823330f95fd67e2a6b6f2b1548267cc.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 13,
+        "title": "fade white",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Shirts",
+        "image": "https://cdn.propercloth.com/fab_gallery/cfde7acf19505bdc744387b0a89cd6a8.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 14,
+        "title": "Pink",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Shirts",
+        "image": "https://cdn.propercloth.com/fab_gallery/4d30e94fabed10605774a177edeca706.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 15,
+        "title": "Blue",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Shirts",
+        "image": "https://cdn.propercloth.com/fab_gallery/34141e6d02aadc6b8c67fabf37a5a0ea.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 16,
+        "title": "Dobby",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Shirts",
+        "image": "https://propercloth.com/reference/wp-content/uploads/2016/10/white-jacquard-fabric.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 17,
+        "title": "Royal oxford",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Shirts",
+        "image": "https://cdn.propercloth.com/fab_gallery/cf99c1e5f1a96d62835e931c21a00111.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 18,
+        "title": "Linen",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Shirts",
+        "image": "https://propercloth.com/reference/wp-content/uploads/2016/02/Linen.jpg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+
+
+
+
+
+    {
+        "id": 19,
+        "title": "Fabric Brown",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Pants",
+        "image": "https://ramrajcotton.in/cdn/shop/products/BVK085-4B.jpg?v=1678712047&width=1000",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 20,
+        "title": "Stretch grey",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Pants",
+        "image": "https://ramrajcotton.in/cdn/shop/files/BVK083L-2C.jpg?v=1709283662&width=1000",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+
+
+
+
+    {
+        "id": 21,
+        "title": "Sandal",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Pants",
+        "image": "https://ramrajcotton.in/cdn/shop/files/MSM301-1C.jpg?v=1713442195&width=1000",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 22,
+        "title": "Color checked",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Pants",
+        "image": "https://ramrajcotton.in/cdn/shop/files/MSM262L-6C.jpg?v=1702717277&width=1000",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 23,
+        "title": "Navy checked",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Pants",
+        "image": "https://ramrajcotton.in/cdn/shop/files/MSM333L-3C.jpg?v=1713438987&width=1000",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 24,
+        "title": "Classy pant",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Pants",
+        "image": "https://images.meesho.com/images/products/81803621/rrvzy_400.webp",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 25,
+        "title": "Fancy pant",
+        "price": 109.95,
+        "description": "A perfect cloth which is durable and long lasting",
+        "category": "Formal Pants",
+        "image": "https://images.meesho.com/images/products/68310699/k4ttx_400.webp",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+
+
 
 
 
